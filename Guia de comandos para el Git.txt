@@ -1,0 +1,38 @@
+git init //inicia el repositorio
+
+git add <file> //lo agrega al area de trabajo
+
+git commit -m "file" //Guarda los cambios
+
+git status //revisa si todo esta dentro de los parametros
+
+git diff //nos dice todos los cambios que se hicieron
+
+git log //es el historial de los cambios
+
+git branch //Nos dice cuales son las Versiones
+
+git branch <name of change> //aqui es donde se hacen otras versiones
+
+git checkout <name of version> //se cambia de versiones
+
+git remote add origin <URL> //linkea todo a la nube
+
+git push -u origin <name of version> //subirlo al Github
+
+git push -u origin <name of main version> <next version> //subir la siguiente version
+
+git clone <URL> //clona todo lo que este en el Github
+
+git pull origin master //es actualizar el repositorio local
+
+// Los tags consisten en colocar un nombre a los commits o versiones
+//para un mejor acceso y control de las versiones
+
+git tag <Nombre o version> <no. del commit> -m "comentario"
+
+git push --tags //manda todos los tags al repositorio remoto
+
+git tag //mira todos los tags que hay
+
+git tag -d <nombre de la version> //elimina un tag
