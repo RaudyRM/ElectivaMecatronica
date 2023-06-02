@@ -1,0 +1,12 @@
+El proyecto RoomLink, es un proyecto que consiste en desarrollar un placa PCB
+que pueda conectarse a la corriente AC y que soporte los pico de corriente cuando
+se restaure la energía eléctrica.
+
+Entre sus componentes estan:
+-Los reguladores de voltajes de 12V con potencia de 3W.
+-7805 para el microcontralador
+-Relays de 12V
+-Esp32
+
+RTOS en ESP32:
+https://blog.330ohms.com/2021/03/29/introduccion-a-los-so-en-tiempo-real-que-es-un-rtos/
