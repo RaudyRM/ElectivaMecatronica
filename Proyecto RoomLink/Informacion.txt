@@ -1,0 +1,5 @@
+Dimension de la PCB:
+
+ancho=105mm
+Conectores
+Dim
