@@ -314,7 +314,7 @@
   (symbol (lib_id "TBP03R1-350-08BE:TBP03R1-350-08BE") (at 112.522 114.808 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5dc4360d-ef98-4209-b088-0aa2a80db075)
-    (property "Reference" "INPUT" (at 105.664 112.268 0)
+    (property "Reference" "INPUT1" (at 105.664 112.268 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TBP03R1-350-08BE" (at 105.664 114.808 0)
@@ -349,7 +349,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f"
-          (reference "INPUT") (unit 1)
+          (reference "INPUT1") (unit 1)
         )
       )
     )
@@ -358,7 +358,7 @@
   (symbol (lib_id "TBP03R1-350-03BE:TBP03R1-350-03BE") (at 112.268 89.916 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6221a004-444d-4db0-9d79-f48a57cbe387)
-    (property "Reference" "ENTRADA_RS485" (at 105.41 88.646 0)
+    (property "Reference" "ENTRADA_RS1" (at 105.41 88.646 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TBP03R1-350-03BE" (at 105.41 91.186 0)
@@ -388,7 +388,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f"
-          (reference "ENTRADA_RS485") (unit 1)
+          (reference "ENTRADA_RS1") (unit 1)
         )
       )
     )
@@ -397,7 +397,7 @@
   (symbol (lib_id "TBP03R1-350-08BE:TBP03R1-350-08BE") (at 188.214 114.808 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c84ae664-1626-4bc5-8b54-eb004736f690)
-    (property "Reference" "OUTPUT" (at 194.818 113.538 0)
+    (property "Reference" "OUTPUT1" (at 194.818 113.538 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TBP03R1-350-08BE" (at 195.072 114.808 0)
@@ -432,7 +432,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f"
-          (reference "OUTPUT") (unit 1)
+          (reference "OUTPUT1") (unit 1)
         )
       )
     )
@@ -441,7 +441,7 @@
   (symbol (lib_id "TBP03R1-350-02BE:TBP03R1-350-02BE") (at 112.268 76.962 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d7bf5de6-0ee5-4b7f-b3d7-12743b0fe62d)
-    (property "Reference" "ENTRADA_AC" (at 106.172 74.422 0)
+    (property "Reference" "ENTRADA_AC1" (at 106.172 74.422 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TBP03R1-350-02BE" (at 106.172 76.962 0)
@@ -470,7 +470,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f"
-          (reference "ENTRADA_AC") (unit 1)
+          (reference "ENTRADA_AC1") (unit 1)
         )
       )
     )
@@ -479,7 +479,7 @@
   (symbol (lib_id "TBP03R1-350-02BE:TBP03R1-350-02BE") (at 188.214 89.916 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid df544cbe-4720-4c74-b7de-11e260124c9f)
-    (property "Reference" "J4" (at 194.31 87.376 0)
+    (property "Reference" "J2" (at 194.31 87.376 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TBP03R1-350-02BE" (at 194.31 89.916 0)
@@ -508,7 +508,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f"
-          (reference "J4") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )

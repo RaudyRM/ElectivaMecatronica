@@ -882,7 +882,7 @@
   (symbol (lib_id "power:GND") (at 55.372 133.858 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02aa226c-b0de-44db-ad2a-d70da3015d92)
-    (property "Reference" "#PWR01" (at 55.372 140.208 0)
+    (property "Reference" "#PWR024" (at 55.372 140.208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 55.372 139.192 0)
@@ -898,7 +898,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -907,7 +907,7 @@
   (symbol (lib_id "Device:LED_Small_Filled") (at 73.914 80.264 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03b1a705-fa7f-4f98-942a-aa0c47ea919c)
-    (property "Reference" "D1" (at 75.946 80.264 0)
+    (property "Reference" "D?" (at 75.946 80.264 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED_Small_Filled" (at 77.47 80.2005 0)
@@ -924,22 +924,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "D3") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -948,7 +948,7 @@
   (symbol (lib_id "power:+12V") (at 154.94 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 050dee7d-bb37-4a43-ad6b-a676377792c8)
-    (property "Reference" "#PWR06" (at 154.94 70.866 0)
+    (property "Reference" "#PWR029" (at 154.94 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 154.94 62.23 0)
@@ -964,7 +964,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -973,7 +973,7 @@
   (symbol (lib_id "Device:LED_Small_Filled") (at 196.088 80.264 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09201f3f-9c38-4eb6-927b-aa8e5336b7b2)
-    (property "Reference" "D1" (at 198.12 80.264 0)
+    (property "Reference" "D?" (at 198.12 80.264 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED_Small_Filled" (at 199.644 80.2005 0)
@@ -990,22 +990,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "D4") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -1014,7 +1014,7 @@
   (symbol (lib_id "power:+12V") (at 73.914 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0bfe4311-c541-443f-a551-cabf5cfd0065)
-    (property "Reference" "#PWR02" (at 73.914 70.866 0)
+    (property "Reference" "#PWR025" (at 73.914 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 73.914 62.23 0)
@@ -1030,7 +1030,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -1039,7 +1039,7 @@
   (symbol (lib_name "DIPxx-1Axx-13x_1") (lib_id "Relay:DIPxx-1Axx-13x") (at 170.688 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0dbdcf69-ac30-41c4-869b-9cc05bd32e07)
-    (property "Reference" "K1" (at 180.086 74.93 0)
+    (property "Reference" "K?" (at 180.086 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AZ921" (at 180.086 77.47 0)
@@ -1058,22 +1058,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "K1") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "K2") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "K4") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "K5") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "K6") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "K2") (unit 1)
+          (reference "K3") (unit 1)
         )
       )
     )
@@ -1082,7 +1082,7 @@
   (symbol (lib_id "Transistor_Array:ULN2003") (at 55.372 116.078 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f72efcd-0898-4a2a-b3cf-89891f742bc7)
-    (property "Reference" "U1" (at 55.372 98.044 0)
+    (property "Reference" "U?" (at 55.372 98.044 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ULN2003" (at 55.372 100.584 0)
@@ -1113,22 +1113,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "U1") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "U2") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "U4") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "U5") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "U6") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "U3") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -1137,7 +1137,7 @@
   (symbol (lib_name "DIPxx-1Axx-13x_1") (lib_id "Relay:DIPxx-1Axx-13x") (at 252.73 75.946 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1551907a-cec2-4cb6-ad98-0819c2286912)
-    (property "Reference" "K1" (at 262.128 74.676 0)
+    (property "Reference" "K?" (at 262.128 74.676 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AZ921" (at 262.128 77.216 0)
@@ -1156,19 +1156,19 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "K1") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "K2") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "K4") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "K5") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "K6") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
           (reference "K5") (unit 1)
@@ -1180,7 +1180,7 @@
   (symbol (lib_id "Device:R_Small") (at 196.088 72.39 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1df28a58-87ff-45b2-96b4-022bff732193)
-    (property "Reference" "R1" (at 194.056 72.39 90)
+    (property "Reference" "R?" (at 194.056 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1K" (at 196.088 72.39 90)
@@ -1197,22 +1197,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "R4") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "R5") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "R6") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "R4") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -1221,7 +1221,7 @@
   (symbol (lib_name "DIPxx-1Axx-13x_1") (lib_id "Relay:DIPxx-1Axx-13x") (at 211.836 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25159b7e-e798-4f17-a7d5-3266d6a4961d)
-    (property "Reference" "K1" (at 221.234 74.93 0)
+    (property "Reference" "K?" (at 221.234 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AZ921" (at 221.234 77.47 0)
@@ -1240,19 +1240,19 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "K1") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "K2") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "K4") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "K5") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "K6") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
           (reference "K4") (unit 1)
@@ -1264,7 +1264,7 @@
   (symbol (lib_id "Device:LED_Small_Filled") (at 114.554 80.264 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 27f9ed77-0637-4e70-83bd-d10f7df8de19)
-    (property "Reference" "D1" (at 116.586 80.264 0)
+    (property "Reference" "D?" (at 116.586 80.264 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED_Small_Filled" (at 118.11 80.2005 0)
@@ -1281,22 +1281,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "D1") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -1305,7 +1305,7 @@
   (symbol (lib_id "Device:LED_Small_Filled") (at 154.94 80.264 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3041bc44-773f-4160-8580-3d901d20e2a6)
-    (property "Reference" "D1" (at 156.972 80.264 0)
+    (property "Reference" "D?" (at 156.972 80.264 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED_Small_Filled" (at 158.496 80.2005 0)
@@ -1322,22 +1322,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "D2") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -1346,7 +1346,7 @@
   (symbol (lib_id "Device:R_Small") (at 236.982 72.136 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3eaecfa7-5144-4a1d-b7af-394a7b943c42)
-    (property "Reference" "R1" (at 234.95 72.136 90)
+    (property "Reference" "R?" (at 234.95 72.136 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1K" (at 233.426 72.136 90)
@@ -1363,22 +1363,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "R4") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "R5") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "R6") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "R5") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -1387,7 +1387,7 @@
   (symbol (lib_id "power:+12V") (at 114.554 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3f6ab1e6-4d62-4216-997c-ea0a9ca45d3c)
-    (property "Reference" "#PWR04" (at 114.554 70.866 0)
+    (property "Reference" "#PWR027" (at 114.554 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 114.554 62.23 0)
@@ -1403,7 +1403,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -1412,7 +1412,7 @@
   (symbol (lib_name "DIPxx-1Axx-13x_1") (lib_id "Relay:DIPxx-1Axx-13x") (at 130.302 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5dfc959d-a2f3-4347-84fa-21874fdd4012)
-    (property "Reference" "K1" (at 139.7 74.93 0)
+    (property "Reference" "K?" (at 139.7 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AZ921" (at 139.7 77.47 0)
@@ -1431,22 +1431,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "K1") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "K2") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "K4") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "K5") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "K6") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "K1") (unit 1)
+          (reference "K2") (unit 1)
         )
       )
     )
@@ -1455,7 +1455,7 @@
   (symbol (lib_id "Device:R_Small") (at 114.554 72.39 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c5b6cff-f5d3-419c-89a9-33e6062e734b)
-    (property "Reference" "R1" (at 112.522 72.39 90)
+    (property "Reference" "R?" (at 112.522 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1K" (at 114.554 72.39 90)
@@ -1472,22 +1472,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "R4") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "R5") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "R6") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "R1") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -1496,7 +1496,7 @@
   (symbol (lib_id "Device:LED_Small_Filled") (at 236.982 80.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a514b56-75d4-426c-b92e-f20a2efd7a0f)
-    (property "Reference" "D1" (at 239.014 80.01 0)
+    (property "Reference" "D?" (at 239.014 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED_Small_Filled" (at 240.538 79.9465 0)
@@ -1513,22 +1513,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "D5") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -1537,7 +1537,7 @@
   (symbol (lib_id "power:+12V") (at 236.982 66.802 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 852e5ccc-f4fe-44d4-8ca1-9fd28fe3e8d5)
-    (property "Reference" "#PWR010" (at 236.982 70.612 0)
+    (property "Reference" "#PWR033" (at 236.982 70.612 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 236.982 61.976 0)
@@ -1553,7 +1553,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
@@ -1562,7 +1562,7 @@
   (symbol (lib_id "Device:R_Small") (at 73.914 72.39 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 899efe8c-e8e5-454f-8ad6-39ee1d74b145)
-    (property "Reference" "R1" (at 71.882 72.39 90)
+    (property "Reference" "R?" (at 71.882 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1K" (at 73.914 72.39 90)
@@ -1579,22 +1579,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "R4") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "R5") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "R6") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "R3") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -1603,7 +1603,7 @@
   (symbol (lib_id "power:+12V") (at 84.582 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d6bdc54-2084-4418-a475-1579e999e8c2)
-    (property "Reference" "#PWR03" (at 84.582 70.866 0)
+    (property "Reference" "#PWR026" (at 84.582 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 84.582 62.23 0)
@@ -1619,7 +1619,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -1628,7 +1628,7 @@
   (symbol (lib_id "power:+12V") (at 206.756 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid add6a851-271c-4e6a-80c4-9297886c53c8)
-    (property "Reference" "#PWR09" (at 206.756 70.866 0)
+    (property "Reference" "#PWR032" (at 206.756 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 206.756 62.23 0)
@@ -1644,7 +1644,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -1653,7 +1653,7 @@
   (symbol (lib_id "power:+12V") (at 125.222 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b13fb0ec-9b79-4b6e-86f3-0a67061c5fbf)
-    (property "Reference" "#PWR05" (at 125.222 70.866 0)
+    (property "Reference" "#PWR028" (at 125.222 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 125.222 62.23 0)
@@ -1669,7 +1669,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -1678,7 +1678,7 @@
   (symbol (lib_id "power:+12V") (at 165.608 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6843708-04b4-42c7-afca-bba9c4f1a993)
-    (property "Reference" "#PWR07" (at 165.608 70.866 0)
+    (property "Reference" "#PWR030" (at 165.608 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 165.608 62.23 0)
@@ -1694,7 +1694,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -1703,7 +1703,7 @@
   (symbol (lib_name "DIPxx-1Axx-13x_1") (lib_id "Relay:DIPxx-1Axx-13x") (at 89.662 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e77bfb6c-ca9e-4fa5-a883-f3b8ed80c942)
-    (property "Reference" "K1" (at 99.06 74.93 0)
+    (property "Reference" "K?" (at 99.06 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AZ921" (at 99.06 77.47 0)
@@ -1722,22 +1722,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "K1") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "K2") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "K4") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "K5") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "K6") (unit 1)
+          (reference "K?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "K3") (unit 1)
+          (reference "K1") (unit 1)
         )
       )
     )
@@ -1746,7 +1746,7 @@
   (symbol (lib_id "power:+12V") (at 196.088 67.056 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f42ed3dd-d9b9-4068-b9d4-96916a078a08)
-    (property "Reference" "#PWR08" (at 196.088 70.866 0)
+    (property "Reference" "#PWR031" (at 196.088 70.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 196.088 62.23 0)
@@ -1762,7 +1762,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -1771,7 +1771,7 @@
   (symbol (lib_id "Device:R_Small") (at 154.94 72.39 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fbb31749-207c-4568-a623-ed0125d25f34)
-    (property "Reference" "R1" (at 152.908 72.39 90)
+    (property "Reference" "R?" (at 152.908 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1K" (at 154.94 72.39 90)
@@ -1788,22 +1788,22 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/8b88a2cc-d335-4424-b0af-fd631da66301"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/67bd29a2-92b7-400d-9316-101819e0fbc5"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a79be922-e693-4c14-861e-b67d2d4fd1dd"
-          (reference "R4") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/a17db24c-2628-4444-879a-eb00020c9324"
-          (reference "R5") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/1ae42350-0704-44d1-ba03-f737ca83fd1a"
-          (reference "R6") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "R2") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -1812,7 +1812,7 @@
   (symbol (lib_id "power:+12V") (at 247.65 66.802 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fc29d0ee-fa51-4afe-93bf-2ebc4dc3f993)
-    (property "Reference" "#PWR011" (at 247.65 70.612 0)
+    (property "Reference" "#PWR034" (at 247.65 70.612 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 247.65 61.976 0)
@@ -1828,7 +1828,7 @@
     (instances
       (project "RoomLink"
         (path "/a574160c-788b-41d3-8a5c-f7edad3dde0f/3a4069c1-910a-47e9-a64b-df35dcb8e0bf/92a3c026-0ebf-46a6-a0f7-c00bc87e4e44"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
     )
